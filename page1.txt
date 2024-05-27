@@ -1,2 +1,30 @@
 welcome srinivas 
 this is your traing sesion v1 at 17-05 2024 10.31 am
+
+
+git remote add origin https://github.com/srinivas3224/mvrs1.git
+
+
+git branch -M main
+
+D:\dsrgithub\training1>git remote add origin https://github.com/srinivas3224/mvrs1.git
+
+D:\dsrgithub\training1>git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 293 bytes | 293.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/srinivas3224/mvrs1.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+D:\dsrgithub\training1> at 10.56 am
+
+
+
+
+
+
